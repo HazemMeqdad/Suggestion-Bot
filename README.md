@@ -9,10 +9,25 @@ These are needed to be able to run **Suggestion-Bot-v2**.
 
 ## Setup
 
-Edit `config/config.json` to your liking, then save it as `config.json`.
-
 Once you're ready just run `python main.py` in the active directory to start the bot.
 
+## ⚙️ Configuration
+
+Edit `config/config.json` to your liking, then save it as `config.json`.
+
+**⚠️ Note: Never commit or share your token or api keys publicly ⚠️**
+
+```json
+{
+  "TOKEN": "",
+  "YOUTUBE_API_KEY": "",
+  "SOUNDCLOUD_CLIENT_ID": "",
+  "MAX_PLAYLIST_SIZE": 10,
+  "PREFIX": "/",
+  "PRUNING": false,
+  "STAY_TIME": 30
+}
+```
 
 ## Cogs
 
