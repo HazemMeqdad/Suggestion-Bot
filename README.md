@@ -7,10 +7,6 @@ These are needed to be able to run **Suggestion-Bot-v2**.
 - [Python 3.8](https://www.python.org/)
 - [Discord.py[Rewrite]](https://github.com/Rapptz/discord.py/tree/rewrite)
 
-## Setup
-
-Once you're ready just run `python main.py` in the active directory to start the bot.
-
 ## ⚙️ Configuration
 
 Edit `config/config.json` to your liking, then save it as `config.json`.
@@ -25,6 +21,10 @@ Edit `config/config.json` to your liking, then save it as `config.json`.
     "channel": 783412077535821904
 }
 ```
+
+## Setup
+
+Once you're ready just run `python main.py` in the active directory to start the bot.
 
 ## Cogs
 
