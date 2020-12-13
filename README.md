@@ -19,13 +19,10 @@ Edit `config/config.json` to your liking, then save it as `config.json`.
 
 ```json
 {
-  "TOKEN": "",
-  "YOUTUBE_API_KEY": "",
-  "SOUNDCLOUD_CLIENT_ID": "",
-  "MAX_PLAYLIST_SIZE": 10,
-  "PREFIX": "/",
-  "PRUNING": false,
-  "STAY_TIME": 30
+    "token": "",
+    "prefix": "",
+    "dev": 740700552593145876, 
+    "channel": 783412077535821904
 }
 ```
 
