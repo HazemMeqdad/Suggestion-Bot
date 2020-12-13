@@ -11,7 +11,7 @@ These are needed to be able to run **Suggestion-Bot-v2**.
 
 Edit `config/config.json` to your liking, then save it as `config.json`.
 
-**⚠️ Note: Never commit or share your token or api keys publicly ⚠️**
+**⚠️ Note: Never commit or share your token keys publicly ⚠️**
 
 ```json
 {
